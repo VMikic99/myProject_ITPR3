@@ -7,7 +7,7 @@ def mikic(x, *args):
             s = x
             a = x
             
-            print (n,s,a,m)
+            print ("Count:",n, "Sum:",s, "Minimum:",m, "Mean:",a)
     else:
         s = s + x
         n = n + 1 
@@ -21,7 +21,7 @@ def mikic(x, *args):
                 if (i <= m):
                     m = i
                     
-        print (n,s,a,m) 
+        print ("Count:",n, "Sum:",s, "Minimum:",m, "Mean:",a) 
         
         
             

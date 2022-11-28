@@ -13,6 +13,7 @@ def mikic(n):
     print ("q =",y)
 # it looks like I learned how to use git today    
     
+    
 mikic(30)
 mikic(5)
 mikic(1)

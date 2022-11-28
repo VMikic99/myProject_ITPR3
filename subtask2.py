@@ -24,7 +24,6 @@ def mikic(x, *args):
         print ("Count:",n, "Sum:",s, "Minimum:",m, "Mean:",a) 
         
 # it looks like I learned how to use git today            
-
             
 mikic(3,4,0,2,1,8,-1)
 mikic(5,2,3,4,0,-1)

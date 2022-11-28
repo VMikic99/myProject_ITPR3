@@ -10,7 +10,7 @@ def mikic(n):
         r = i * i 
         i = i + 1 
         
-    print (x,y)
+    print ("q =",y)
     
 mikic(30)
 mikic(5)

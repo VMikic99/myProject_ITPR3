@@ -11,6 +11,7 @@ def mikic(n):
         i = i + 1 
         
     print ("q =",y)
+# it looks like I learned how to use git today    
     
 mikic(30)
 mikic(5)
